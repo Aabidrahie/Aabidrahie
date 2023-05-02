@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React<br>
 - 💬 Ask me anything on :<a href="https://www.linkedin.com/in/aabid-rahie/">LinkedIn </a> <br>
 - 📫 How to reach me: Aabidrahie@gmail.com <br>
-- 💬 Link to <a href="https://www.linkedin.com/in/aabid-rahie/">Twitter </a> <br>
+- 💬 Link to <a href="https://www.twitter.com/aabidrahie/">Twitter </a> <br>
 
 
 ## 🌐 Connect with me:
